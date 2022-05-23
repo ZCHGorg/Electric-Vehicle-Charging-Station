@@ -15,7 +15,18 @@ Currently accepted currencies/networks: Charg (CHG), BTC, ETH, LTC, MATIC, BSC, 
 
 <b>INSTRUCTIONS:</B> Follow this tutorial after downloading the image file so that you can install both the image and operating system on your Raspberry Pi: https://www.raspberrypi.com/software/  
 
-You are going to be reading from the section “Install Raspberry Pi OS using Raspberry Pi Imager”.
+You are going to be reading from the section “Install Raspberry Pi OS using Raspberry Pi Imager”. I like to use my laptop which has a built-in SD card reader, but any SD card reader will do.
+
+You will then need to transfer your SD card to the Raspberry Pi and turn the Raspberry Pi on. You will need to terminal in or find yourself a display most probably requiring an adapter to work with your display.
+
+Or if you prefer lists -
+
+1) Download this Image - https://chgcoin.org/charg-raspberry-pi.img.gz
+2) Follow this tutorial - "Install Raspberry Pi OS using Raspberry Pi Imager" to install the image onto your SD card (sold separately).
+3) Insert SD card into Raspberry Pi and power on. You might want to have a display connected, or you can terminal in - https://www.raspberrypi.com/documentation/computers/remote-access.html
+4) A new turn-key website is now being hosted by your Raspberry Pi, and you can advertise the web address utilizing a free QR Code Generator - https://www.qr-code-generator.com/. If you don’t know your web address, you may terminal in to get (see step 3).
+5) Get a FREE YOURNAMEHERE.zchg.org URL by writing to mailto:mail@chgcoin.org.
+6) Install this basic kit - https://wecharg.com/basic, standard kit - https://wecharg.com/standard, or off-grid kit - https://wecharg.com/advanced to add electric vehicle charging support, or enjoy wifi leasing, parking spot leasing, and time-for-lease with no additional equipment required.
 
 We are here to help – If you require assistance, please visit our forums and live chat.
 Forums - https://forum.chgcoin.org
