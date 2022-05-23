@@ -7,7 +7,7 @@ This feature-packed image permits anyone to set up their own electric vehicle ch
 
 Includes Wifi Leasing Support, time-for-lease, parking spot leasing, and electric vehicle charging station leasing.  This is the client version of the software which powers https://hub.chgcoin.org and all CHG charging stations.  The transactions are handled automatically over the blockchain, and thanks to our proprietary bridge technology your customers are free to choose whatever payment method they like across multiple blockchains, especially our own mainnet - https://chgcoin.org.
 
-Currently accepted currencies: Charg (CHG), BTC, ETH, LTC, MATIC, BSC, FSN, Legacy credit card (USD/EURO/etc.), Paypal, Apple Pay.
+Currently accepted currencies/networks: Charg (CHG), BTC, ETH, LTC, MATIC, BSC, FSN, Legacy credit card (USD/EURO/etc.), Paypal, Apple Pay.
 
 Follow this tutorial after downloading the image file so that you can install both the image and operating system on your Raspberry Pi: https://www.raspberrypi.com/software/
 
