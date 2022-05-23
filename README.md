@@ -1,13 +1,13 @@
 # Electric Vehicle Charging Station
 Electric Vehicle Charging Station for Raspberry Pi 4 +
 
-This Raspberry Pi 4 + image permits anyone to set up their own electric vehicle charging station.  It can also be used to power just about anything else which is powered by a simple on/off switch, with more complicated functions also possible.  
+This is an image file for Raspberry Pi 4 and higher. If you didn’t already know, the Raspberry Pi is a powerful little computer that can run just about anything – including electric vehicle charging stations. 
 
-Includes Wifi Leasing Support, time-for-lease, parking spot leasing, and electric vehicle charging station leasing.  This is the client version of the software which powers https://hub.chgcoin.org and all CHG charging stations.  The transactions are handled automatically over the blockchain, and thanks to our proprietary bridge technology your customers are free to choose whatever payment method they like.
+This powerful image permits anyone to set up their own electric vehicle charging station.  It can also be used to power just about anything else electronic - are you paying attention developers?  Anything electronic which has a simple on/off switch can be controlled, with more complicated functions also possible.  
+
+Includes Wifi Leasing Support, time-for-lease, parking spot leasing, and electric vehicle charging station leasing.  This is the client version of the software which powers https://hub.chgcoin.org and all CHG charging stations.  The transactions are handled automatically over the blockchain, and thanks to our proprietary bridge technology your customers are free to choose whatever payment method they like across multiple blockchains, especially our own mainnet - https://chgcoin.org.
 
 Currently accepted currencies: Charg (CHG), BTC, ETH, LTC, MATIC, BSC, FSN, Legacy credit card (USD/EURO/etc.), Paypal, Apple Pay.
-
-This is an image file for Raspberry Pi 4 and higher. If you didn’t already know, the Raspberry Pi is a powerful little computer that can run just about anything – including electric vehicle charging stations. 
 
 Follow this tutorial after downloading the image file so that you can install both the image and operating system on your Raspberry Pi: https://www.raspberrypi.com/software/
 
