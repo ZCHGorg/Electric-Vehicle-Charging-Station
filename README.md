@@ -14,8 +14,8 @@ Follow this tutorial after downloading the image file so that you can install bo
 We are here to help – If you require assistance, please visit our forums and live chat.
 Forums - https://forum.chgcoin.org
 Live Chat - https://t.me/chargchat
-
-https://zchg.org AKA https://chgcoin.org
+<br><br><b>LINKS</b>
+<p>https://zchg.org AKA https://chgcoin.org
 <p>Real-world Use Case: https://wecharg.com
 <p>Main Repository: https://chgcoin.org/downloads
 <p>Stats: https://stats.chgcoin.org
