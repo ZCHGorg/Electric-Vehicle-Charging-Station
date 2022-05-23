@@ -23,4 +23,4 @@ Live Chat - https://t.me/chargchat
 <p>API: https://api.chgcoin.org
 <p>RPC: https://rpc.chgcoin.org
 
-DANGER: RISK OF ELECTRIC SHOCK, INJURY, OR DEATH!  ALWAYS SEEK AN ELECTRICIAN!
+  <b>DANGER: RISK OF ELECTRIC SHOCK, INJURY, OR DEATH!  ALWAYS SEEK AN ELECTRICIAN!</b>
