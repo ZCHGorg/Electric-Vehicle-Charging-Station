@@ -1,7 +1,7 @@
 # Electric Vehicle Charging Station
 Electric Vehicle Charging Station for Raspberry Pi 4 +
 
-Move over Windows and MacOS, the blockchain-backed operating system is finally here! And it’s rocking FULL support for electric vehicle charging stations, wifi leasing, time-for-lease, and yes parking spot leasing as native to the platform!  Notepad, Paint, and Solitaire for blockchain equivalents to follow...
+Move over Windows and MacOS, the blockchain-backed operating system is finally here! And it’s rocking full support for electric vehicle charging stations, wifi leasing, time-for-lease, and yes parking spot leasing as native to the platform!  Notepad, Paint, and Solitaire for blockchain equivalents to follow...
 
 Take advantage of this exciting opportunity to install your own blockchain-based operating system now!
 
