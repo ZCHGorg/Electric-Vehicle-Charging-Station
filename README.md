@@ -1,2 +1,22 @@
-# Electric-Vehicle-Charging-Station
+# Electric Vehicle Charging Station
 Electric Vehicle Charging Station for Raspberry Pi 4 +
+
+This Raspberry Pi 4 + image permits anyone to set up their own electric vehicle charging station.  It can also be used to power just about anything else which is powered by a simple on/off switch, with more complicated functions also possible.  
+
+Includes Wifi Leasing Support, time-for-lease, parking spot leasing, and electric vehicle charging station leasing.  This is the client version of the software which powers https://hub.chgcoin.org and all CHG charging stations.  The transactions are handled automatically over the blockchain, and thanks to our proprietary bridge technology your customers are free to choose whatever payment method they like.
+
+Currently accepted currencies: Charg (CHG), BTC, ETH, LTC, MATIC, BSC, FSN, Legacy credit card (USD/EURO/etc.), Paypal, Apple Pay.
+
+This is an image file for Raspberry Pi 4 and higher. If you didn’t already know, the Raspberry Pi is a powerful little computer that can run just about anything – including electric vehicle charging stations. 
+
+Follow this tutorial after downloading the image file so that you can install both the image and operating system on your Raspberry Pi: https://www.raspberrypi.com/software/
+
+We are here to help – If you require assistance, please visit our forums and live chat.
+Forums - https://forum.chgcoin.org
+Live Chat - https://t.me/chargchat
+
+https://zchg.org AKA https://chgcoin.org
+https://wecharg.com
+Main Repository: https://chgcoin.org/downloads
+
+DANGER: RISK OF ELECTRIC SHOCK, INJURY, OR DEATH!  ALWAYS SEEK AN ELECTRICIAN!
