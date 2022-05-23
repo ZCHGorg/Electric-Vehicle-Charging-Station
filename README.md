@@ -15,8 +15,12 @@ We are here to help – If you require assistance, please visit our forums and l
 Forums - https://forum.chgcoin.org
 Live Chat - https://t.me/chargchat
 
-https://zchg.org AKA https://chgcoin.org
-https://wecharg.com
-Main Repository: https://chgcoin.org/downloads
+https://zchg.org AKA https://chgcoin.org, 
+Real-world Application: https://wecharg.com, 
+Main Repository: https://chgcoin.org/downloads,
+Stats: https://stats.chgcoin.org,
+Explorer: https://explore.chgcoin.org,
+API: https://api.chgcoin.org,
+RPC: https://rpc.chgcoin.org
 
 DANGER: RISK OF ELECTRIC SHOCK, INJURY, OR DEATH!  ALWAYS SEEK AN ELECTRICIAN!
