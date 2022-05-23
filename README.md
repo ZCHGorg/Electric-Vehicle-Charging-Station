@@ -17,7 +17,7 @@ Currently accepted currencies/networks: Charg (CHG), BTC, ETH, LTC, MATIC, BSC, 
 
 You are going to be reading from the section “Install Raspberry Pi OS using Raspberry Pi Imager”. I like to use my laptop which has a built-in SD card reader, but any SD card reader will do.
 
-You will then need to transfer your SD card to the Raspberry Pi and turn the Raspberry Pi on. You will need to terminal in or find yourself a display most probably requiring an adapter to work with your display.
+You will then need to transfer your SD card to the Raspberry Pi and turn the Raspberry Pi on. You will need to terminal in (see step 3, below) or find yourself a display most probably requiring an adapter to work with your display.
 
 Or if you prefer lists -
 
