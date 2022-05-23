@@ -13,7 +13,9 @@ Includes Wifi Leasing Support, time-for-lease, parking spot leasing, and electri
 
 Currently accepted currencies/networks: Charg (CHG), BTC, ETH, LTC, MATIC, BSC, FSN, Legacy credit card (USD/EURO/etc.), Paypal, Apple Pay.
 
-Follow this tutorial after downloading the image file so that you can install both the image and operating system on your Raspberry Pi: https://www.raspberrypi.com/software/
+<b>INSTRUCTIONS:</B> Follow this tutorial after downloading the image file so that you can install both the image and operating system on your Raspberry Pi: https://www.raspberrypi.com/software/  
+
+You are going to be reading from the section “Install Raspberry Pi OS using Raspberry Pi Imager”.
 
 We are here to help – If you require assistance, please visit our forums and live chat.
 Forums - https://forum.chgcoin.org
