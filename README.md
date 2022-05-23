@@ -1,6 +1,10 @@
 # Electric Vehicle Charging Station
 Electric Vehicle Charging Station for Raspberry Pi 4 +
 
+Move over Windows and MacOS, the blockchain-backed operating system is finally here! And it’s rocking FULL support for electric vehicle charging stations, wifi leasing, time-for-lease, and yes parking spot leasing as native to the platform!
+
+Take advantage of this exciting opportunity to install your own blockchain-based operating system now!
+
 This is an image file for Raspberry Pi 4 and higher. If you didn’t already know, the Raspberry Pi is a powerful little computer that can run just about anything – including electric vehicle charging stations. 
 
 This feature-packed image permits anyone to set up their own electric vehicle charging station.  It can also be used to power just about anything else electronic - are you paying attention developers?  Anything electronic which has a simple on/off switch can be controlled via our web 3.0 blockchain, with more complicated functions also possible.  
