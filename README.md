@@ -16,7 +16,7 @@ Forums - https://forum.chgcoin.org
 Live Chat - https://t.me/chargchat
 
 https://zchg.org AKA https://chgcoin.org
-<p>Real-world Application: https://wecharg.com
+<p>Real-world Use Case: https://wecharg.com
 <p>Main Repository: https://chgcoin.org/downloads
 <p>Stats: https://stats.chgcoin.org
 <p>Explorer: https://explore.chgcoin.org
