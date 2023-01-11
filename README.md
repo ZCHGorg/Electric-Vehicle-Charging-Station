@@ -1,4 +1,4 @@
-# Electric Vehicle Charging Station
+# Electric Vehicle Charging Station - The World's First Blockchain Computer
 Electric Vehicle Charging Station for Raspberry Pi 4 +
 
 Move over Windows and MacOS, the blockchain-backed operating system is finally here! And it’s rocking full support for electric vehicle charging stations, wifi leasing, time-for-lease, and yes parking spot leasing as native to the platform!  Notepad, Paint, and Solitaire for blockchain equivalents to follow...
