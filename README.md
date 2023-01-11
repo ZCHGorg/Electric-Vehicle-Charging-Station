@@ -21,11 +21,11 @@ You will then need to transfer your SD card to the Raspberry Pi and turn the Ras
 
 Or if you prefer lists -
 
-1) Download this Image - https://chgcoin.org/charg-raspberry-pi.img.gz
+1) Download this Image - https://github.com/ZCHGorg/Electric-Vehicle-Charging-Station-The-World-s-First-Blockchain-Computer/blob/main/charg-raspberry-pi.img.gz
 2) Follow this tutorial - "Install Raspberry Pi OS using Raspberry Pi Imager" to install the image onto your SD card (sold separately).
 3) Insert SD card into Raspberry Pi and power on. You might want to have a display connected, or you can terminal in - https://www.raspberrypi.com/documentation/computers/remote-access.html
 4) A new turn-key website is now being hosted by your Raspberry Pi, and you can advertise the web address utilizing a free QR Code Generator - https://www.qr-code-generator.com/. If you don’t know your web address, you may terminal in to get (see step 3).
-5) Get a FREE YOURNAMEHERE.zchg.org URL by writing to mail@chgcoin.org.
+5) Get a FREE YOURNAMEHERE.zchg.org URL by writing to charg.chg.wecharg@gmail.com and visiting https://t.me/chargchat.
 6) Install this basic kit - https://wecharg.com/basic, standard kit - https://wecharg.com/standard, or off-grid kit - https://wecharg.com/advanced to add electric vehicle charging support, or enjoy wifi leasing, parking spot leasing, and time-for-lease with no additional equipment required.
 
 We are here to help – If you require assistance, please visit our forums and live chat.
