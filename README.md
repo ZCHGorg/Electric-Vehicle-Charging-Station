@@ -34,10 +34,10 @@ Live Chat - https://t.me/chargchat
 <br><br><b>LINKS</b>
 <p>https://zchg.org AKA https://chgcoin.org
 <p>Real-world Use Case: https://wecharg.com
-<p>Main Repository: https://chgcoin.org/downloads
-<p>Stats: https://stats.chgcoin.org
-<p>Explorer: https://explore.chgcoin.org
-<p>API: https://api.chgcoin.org
-<p>RPC: https://rpc.chgcoin.org
+<p>Main Repository: https://zchg.org/downloads and https://files.zchg.org
+<p>Stats: https://stats.zchg.org
+<p>Explorer: https://explorer.zchg.org
+<p>API: https://api.zchg.org
+<p>RPC: https://rpc.zchg.org
 
   <b>DANGER: RISK OF ELECTRIC SHOCK, INJURY, OR DEATH!  ALWAYS SEEK AN ELECTRICIAN!</b>
